@@ -1,0 +1,38 @@
+/* 
+  Localizable.strings
+  DNADashboard
+
+  Created by Joel Amarh on 17/03/2023.
+  
+*/
+// Login screen
+"login_screen_welcomeback_title" = "Welcome Back";
+"login_screen_welcomeback_Main" = "Welcome in the DNA Dashboard";
+"Boat_Attendance" = "Boat Attendance";
+"authorise" = "This app needs your location to show";
+"Team_overview" = "Team Overview";
+"Logo_Creator" = "Logo Creator - beta";
+"Employees" = "Employees";
+
+
+
+"location_from" = "location from";
+"show_alert" = "show a alert letting them know this is off";
+"your_loca_restriceted" = "your location is restriceted likely due to parental";
+"your_denied_permission" = "You have denied this app location permission";
+"User_is_not_authenticated" = "User is not authenticated";
+"loading" = "loading...";
+
+"Map" = "Map";
+"Boat_Attendance" = "Boat Attendance";
+
+"Welcome_please_select" = "Please select a action from the left-hand menu. Swipe from the left edge to show it.";
+"login_screen_email_title" = "Email";
+"login_screen_login_button_title" = "Log In";
+"login_screen_loginGreat_message" = "Welcome back! You've been missed";
+"login_screen_username_title" = "Username";
+
+// Profile screen
+"profile_screen_name_title" = "Name";
+"profile_screen_email_title" = "Email";
+"profile_screen_logout_button_title" = "Log Out";

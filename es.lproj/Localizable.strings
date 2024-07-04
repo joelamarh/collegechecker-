@@ -1,0 +1,34 @@
+/* 
+  Localizable.strings
+  DNADashboard
+
+  Created by Joel Amarh on 17/03/2023.
+  
+*/
+"login_screen_welcomeback_title" = "¡Bienvenido de nuevo!";
+"login_screen_welcomeback_Main" = "Bienvenido al Panel de ADN";
+"authorise" = "Esta aplicación necesita tu ubicación para mostrar";
+"Team_overview" = "Resumen del equipo";
+"Logo_Creator" = "Creador de logotipos - beta";
+"Employees" = "Empleados";
+
+
+
+"location_from" = "Ubicación desde";
+"show_alert" = "Mostrar una alerta indicando que esto está desactivado";
+"your_loca_restriceted" = "Tu ubicación está restringida, probablemente debido al control parental";
+"your_denied_permission" = "Has denegado los permisos de ubicación de esta aplicación";
+
+"Welcome_please_select" = "Por favor, selecciona una acción del menú de la izquierda. Desliza desde el borde izquierdo para mostrarlo.";
+"login_screen_email_title" = "Correo electrónico";
+"login_screen_login_button_title" = "Iniciar sesión";
+"login_screen_loginGreat_message" = "¡Bienvenido de nuevo! Se te ha echado de menos";
+"login_screen_username_title" = "Nombre de usuario";
+
+"Map" = "Mapa";
+"Boot_Attendance" = "Asistencia al Boot";
+
+// Pantalla de perfil
+"profile_screen_name_title" = "Nombre";
+"profile_screen_email_title" = "Correo electrónico";
+"profile_screen_logout_button_title" = "Cerrar sesión";

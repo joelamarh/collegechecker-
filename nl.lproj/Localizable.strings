@@ -1,0 +1,42 @@
+/* 
+  Localizable.strings
+  DNADashboard
+
+  Created by Joel Amarh on 17/03/2023.
+  
+*/
+// Login scherm
+"login_screen_welcomeback_title" = "Welkom terug";
+"login_screen_welcomeback_Main" = "Welkom in het DNA-dashboard";
+"Boat_Attendance" = "Boot aanwezigheid";
+"authorise" = "Je hebt toestemming nodig";
+"Team_overview" = "Team overzicht";
+"Logo_Creator" = "Logo maker - beta";
+"Employees" = "Medewerkers";
+
+
+"location_from" = "locatie vanaf";
+"show_alert" = "toon een waarschuwing om aan te geven dat dit uitstaat";
+"your_loca_restriceted" = "je locatie is beperkt, waarschijnlijk vanwege ouderlijk toezicht";
+"your_denied_permission" = "Je hebt deze app geen toestemming gegeven voor locatiegegevens";
+"User_is_not_authenticated" = "Gebruiker is niet geauthenticeerd";
+"loading" = "laden...";
+
+"Map" = "Kaart";
+"Boat_Attendance" = "Boot aanwezigheid";
+
+"Welcome_please_select" = "Selecteer een actie uit het linker menu. Veeg vanaf de linkerrand om het te tonen.";
+"login_screen_email_title" = "E-mail";
+"login_screen_login_button_title" = "Inloggen";
+"login_screen_loginGreat_message" = "Welkom terug! Je hebt ons gemist";
+"login_screen_username_title" = "Gebruikersnaam";
+
+// Profiel scherm
+"profile_screen_name_title" = "Naam";
+"profile_screen_email_title" = "E-mail";
+"profile_screen_logout_button_title" = "Uitloggen";
+
+
+
+
+
