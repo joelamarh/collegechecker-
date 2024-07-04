@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>119394097949-v46kj7698le2civcvb5f6fvv9o409tgr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.119394097949-v46kj7698le2civcvb5f6fvv9o409tgr</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBhysZwRuVi7C590aJ5juk9buwdpooUJbc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>119394097949</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>inc.dna.dashboard</string>
+	<key>PROJECT_ID</key>
+	<string>dna-dashboard-1678792714018</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dna-dashboard-1678792714018.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:119394097949:ios:a0b28d4b6dac2ab873dff4</string>
+	<key>GIDHostedDomain</key>
+	<string></string>
+</dict>
+</plist>
